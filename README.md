@@ -176,12 +176,12 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-```
+
 ![output](./static/img/o.png)
-![output](./static/img/o1.png)
+![output](./static/img/o2.png)
 ![output](./static/img/r.png)
 ![output](./static/img/r1.png)
-```
+
 ## VIEWS.PY
 ```
 from django.shortcuts import render
